@@ -1,0 +1,16 @@
+streamlit
+openai-whisper
+transformers
+torch
+spacy
+bert-extractive-summarizer
+pyspellchecker
+PyPDF2
+python-docx
+pandas
+openpyxl
+ffmpeg-python
+streamlit
+numpy
+matplotlib
+
